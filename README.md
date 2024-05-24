@@ -1,1 +1,1 @@
-# AlterQuicksort
+This is an altered version of Quicksort I created for CISC 230. It will, of course, sort, but it will also provide with how much time it took to do the sorting. To run this you need to download the file and then use an IDE. You must also have Java running correctly
